@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    direction: rtl;
+    text-align: right;
+}
+
+#map {
+    height: 100vh;
+    min-width: 100vw;
+}

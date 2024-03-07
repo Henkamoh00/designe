@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "lat": 33.368189,
+    "lng": 6.851018,
+    "street": "نهج باهي الطاهر",
+    "neighborhood": "حي المنظر الجميل",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 2,
+    "lat": 33.363474,
+    "lng": 6.845521,
+    "street": "نهج الرئيس الراحل هواري بومدين",
+    "neighborhood": "حي النور",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 3,
+    "lat": 33.363004,
+    "lng": 6.844957,
+    "street": "نهج الرئيس الراحل هواري بومدين",
+    "neighborhood": "حي النور",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 4,
+    "lat": 33.360911,
+    "lng": 6.842109,
+    "street": "نهج الرئيس الراحل هواري بومدين",
+    "neighborhood": "حي النور",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 5,
+    "lat": 33.364240,
+    "lng": 6.846918,
+    "street": "نهج الرئيس الراحل هواري بومدين",
+    "neighborhood": "حي النجار",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 6,
+    "lat": 33.367111,
+    "lng": 6.850639,
+    "street": "نهج الرئيس الراحل هواري بومدين",
+    "neighborhood": "حي المنظر الجميل",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 7,
+    "lat": 33.361012,
+    "lng": 6.842985,
+    "street": "نهج الشهيد هالي عبد الكريم",
+    "neighborhood": "حي النجار",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 8,
+    "lat": 33.365961,
+    "lng": 6.854578,
+    "street": "نهج الشهيد محمد خميستي",
+    "neighborhood": "حي الجدلة",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 9,
+    "lat": 33.365087,
+    "lng": 6.855989,
+    "street": "نهج الشهيد محمد خميستي",
+    "neighborhood": "حي الجدلة",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 10,
+    "lat": 33.362386,
+    "lng": 6.859360,
+    "street": "نهج الشهيد محمد خميستي",
+    "neighborhood": "حي المصاعبة",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 11,
+    "lat": 33.364246,
+    "lng": 6.857174,
+    "street": "نهج الشهيد محمد خميستي",
+    "neighborhood": "حي المصاعبة",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 12,
+    "lat": 33.368059,
+    "lng": 6.852486,
+    "street": "نهج العقيد صالح السوفي",
+    "neighborhood": "حي سيدي عبد الله",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 13,
+    "lat": 33.370628,
+    "lng": 6.854987,
+    "street": "نهج العقيد صالح السوفي",
+    "neighborhood": "حي سيدي عبد الله",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 14,
+    "lat": 33.376959,
+    "lng": 6.867423,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 15,
+    "lat": 33.379286,
+    "lng": 6.868484,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 16,
+    "lat": 33.382806,
+    "lng": 6.868742,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 17,
+    "lat": 33.395110,
+    "lng": 6.870831,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 18,
+    "lat": 33.383235,
+    "lng": 6.868614,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 19,
+    "lat": 33.377931,
+    "lng": 6.867702,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  },
+  {
+    "id": 20,
+    "lat": 33.375914,
+    "lng": 6.866644,
+    "street": "نهج الشهيد محمد بوضياف",
+    "neighborhood": "حي أول نوفمبر",
+    "municipality": "El-Oued"
+  }
+ 
+]
